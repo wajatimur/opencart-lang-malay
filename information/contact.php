@@ -7,7 +7,7 @@ $_['text_location']  = 'Lokasi Kami';
 $_['text_contact']   = 'Maklumat Hubungan';
 $_['text_address']   = 'Alamat:';
 $_['text_email']     = 'E-Mail:';
-$_['text_telephone'] = 'Talipon:';
+$_['text_telephone'] = 'Telefon:';
 $_['text_fax']       = 'Fax:';
 $_['text_message']   = '<p>Pertanyaan anda telah dihantar kepada penjual!</p>';
 
