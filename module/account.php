@@ -7,6 +7,7 @@ $_['text_register']    = 'Pendaftaran';
 $_['text_login']       = 'Login';
 $_['text_logout']      = 'Logout';
 $_['text_forgotten']   = 'Lupa Katalaluan';
+$_['text_address']     = 'Alamat Saya';
 $_['text_account']     = 'Akaun Saya';
 $_['text_edit']        = 'Ubah Akaun';
 $_['text_password']    = 'Katalaluan';
