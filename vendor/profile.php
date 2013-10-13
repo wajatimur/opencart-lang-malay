@@ -3,6 +3,7 @@
 // Heading
 $_['heading_title'] = 'Karyawan';
 $_['heading_title_profile'] = 'Biodata Karyawan';
+$_['heading_title_profiles'] = 'Senarai Biodata Karyawan';
 
 // Entry
 $_['entry_vendor_name'] = 'Nama Karyawan';
