@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_error'] = 'Laman Maklumat Tidak Dijumpai!';
+$_['text_error'] = 'Halaman Maklumat Tidak Dijumpai!';
 ?>

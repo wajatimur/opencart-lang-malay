@@ -4,5 +4,5 @@ $_['heading_title'] = 'Maklumat';
 
 // Text
 $_['text_contact']  = 'Hubungi Kami';
-$_['text_sitemap']  = 'Peta Tapak';
+$_['text_sitemap']  = 'Peta Laman';
 ?>

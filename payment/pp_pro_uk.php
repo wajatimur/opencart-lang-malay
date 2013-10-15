@@ -17,9 +17,9 @@ $_['entry_cc_issue']       = 'Nombor Isu Kad:';
 
 // Error
 $_['error_required']       = 'Amaran: Semua maklumat bayaran perlu diberikan.';
-$_['error_general']        = 'Amaran: Terdapat masalah pada urusniaga. Sila cuba lagi.';
+$_['error_general']        = 'Amaran: Terdapat masalah pada transaksi. Sila cuba lagi.';
 $_['error_config']         = 'Amaran: Ralat pada konfigurasi modul bayaran. Sila tentusahkan login anda.';
 $_['error_address']        = 'Amaran: Gagal untuk padankan maklumat Bayaran, Alamat, Bandar, Negeri dan Poskod. Sila cuba lagi.';
-$_['error_declined']       = 'Amaran: Urusniaga ditolak. Sila cuba lagi.';
+$_['error_declined']       = 'Amaran: Transaksi ditolak. Sila cuba lagi.';
 $_['error_invalid']        = 'Amaran: Maklumat kad kredit diberi tidak sah. Sila cuba lagi.';
 ?>

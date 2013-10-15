@@ -1,5 +1,5 @@
 <?php
 // Text
-$_['text_title']       = 'Ikut Bilangan Barangan';
-$_['text_description'] = 'Kos Penghantaran Per Barangan';
+$_['text_title']       = 'Mengikut Kuantiti Barangan';
+$_['text_description'] = 'Kos Penghantaran Per Kuantiti';
 ?>

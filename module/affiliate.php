@@ -12,5 +12,5 @@ $_['text_edit']        = 'Ubah Akaun';
 $_['text_password']    = 'Katalaluan';
 $_['text_payment']     = 'Pilihan Bayaran';
 $_['text_tracking']    = 'Pengesanan Affiliate';
-$_['text_transaction'] = 'Urusniaga';
+$_['text_transaction'] = 'Transaksi';
 ?>

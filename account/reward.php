@@ -1,15 +1,15 @@
 <?php
 // Heading 
-$_['heading_title']      = 'Mata Ganjaran Anda';
+$_['heading_title']      = 'Mata Ganjaran';
 
 // Column
-$_['column_date_added']  = 'Tarikh Dimasukkan';
+$_['column_date_added']  = 'Tarikh Kemasukan';
 $_['column_description'] = 'Keterangan';
-$_['column_points']      = 'Mata';
+$_['column_points']      = 'Mata Ganjaran';
 
 // Text
 $_['text_account']       = 'Akaun';
 $_['text_reward']        = 'Mata Ganjaran';
-$_['text_total']         = 'Jumlah mata ganjaran anda:';
+$_['text_total']         = 'Jumlah mata ganjaran:';
 $_['text_empty']         = 'Anda tiada mata ganjaran!';
 ?>

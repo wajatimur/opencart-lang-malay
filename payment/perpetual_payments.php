@@ -8,7 +8,7 @@ $_['text_wait']            = 'Sila tunggu!';
 $_['text_transaction']     = 'ID Urusniaga:';
 $_['text_avs']             = 'AVS/CVV:';
 $_['text_avs_full_match']  = 'Sepadan';
-$_['text_avs_not_match']   = 'Tidak padan';
+$_['text_avs_not_match']   = 'Tidak sepadan';
 $_['text_authorisation']   = 'Kod Kebenaran:';
 
 // Entry
