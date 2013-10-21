@@ -3,5 +3,5 @@
 $_['heading_title'] = 'Jualan Terlaris';
 
 // Text
-$_['text_reviews']  = 'Berdasarkan ulasan atas %s.'; 
+$_['text_reviews']  = 'Berdasarkan ulasan sebanyak %s.'; 
 ?>

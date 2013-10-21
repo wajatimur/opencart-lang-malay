@@ -1,5 +1,5 @@
 <?php
 // Heading 
-$_['heading_title'] = 'Penjual';
+$_['heading_title'] = 'Pekedai';
 
 ?>

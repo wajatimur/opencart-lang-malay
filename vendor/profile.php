@@ -1,11 +1,11 @@
 <?php
 
 // Heading
-$_['heading_title'] = 'Penjual';
-$_['heading_title_profile'] = 'Biodata Penjual';
+$_['heading_title'] = 'Pekedai';
+$_['heading_title_profile'] = 'Biodata Pekedai';
 
 // Entry
-$_['entry_vendor_name'] = 'Nama Penjual';
+$_['entry_vendor_name'] = 'Nama Pekedai';
 $_['entry_user_account'] = 'Akaun Pengguna';
 $_['entry_company'] = 'Nama Syarikat';
 $_['entry_contact_name'] = 'Nama Untuk di Hubungi';

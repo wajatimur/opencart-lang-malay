@@ -19,4 +19,6 @@ $_['column_model']  = 'Model';
 $_['column_stock']  = 'Stok';
 $_['column_price']  = 'Harga Seunit';
 $_['column_cart']   = 'Beli Sekarang';
+$_['column_action'] = 'Tindakan';
+?>
 ?>

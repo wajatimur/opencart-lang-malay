@@ -1,3 +1,1 @@
-<?php
-$_['text_handling'] = 'Caj Pengurusan';
-?>
+<?php$_['text_handling'] = 'Caj Pengurusan';?>

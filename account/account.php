@@ -15,6 +15,8 @@ $_['text_order']         = 'Pesanan Terdahulu';
 $_['text_download']      = 'Muatturun';
 $_['text_reward']        = 'Mata Ganjaran Anda'; 
 $_['text_return']        = 'Semak pemulangan belian anda'; 
-$_['text_transaction']   = 'Urusniaga Anda'; 
+$_['text_transaction']   = 'Transaksi Anda'; 
 $_['text_newsletter']    = 'Langgan / batal langganan surat-berita';
+$_['text_recurring']     = 'Bayaran berulang';
+$_['text_transactions']  = 'Transaksi';
 ?>

@@ -1,3 +1,1 @@
-<?php
-$_['text_total'] = 'Jumlah Keseluruhan';
-?>
+<?php$_['text_total'] = 'Jumlah Keseluruhan';?>

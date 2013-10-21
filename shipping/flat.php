@@ -1,5 +1,5 @@
 <?php
 // Text
-$_['text_title']       = 'Kadar Tetap';
-$_['text_description'] = 'Kadar kos penghantaran adalah tetap';
+$_['text_title']       = 'Kadar rata';
+$_['text_description'] = 'Penghantaran kadar rata';
 ?>
