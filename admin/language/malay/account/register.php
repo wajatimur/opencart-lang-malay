@@ -16,7 +16,7 @@ $_['text_agree']           = 'Saya telah baca dan setuju <a class="fancybox" hre
 $_['entry_firstname']      = 'Nama Anda:';
 $_['entry_lastname']       = 'Nama Bapa/Keluarga:';
 $_['entry_email']          = 'E-Mail:';
-$_['entry_telephone']      = 'Telefon:';
+$_['entry_telephone']      = 'Talipon:';
 $_['entry_fax']            = 'Fax:';
 $_['entry_company']        = 'Syarikat:';
 $_['entry_address_1']      = 'Alamat 1:';
@@ -34,7 +34,7 @@ $_['error_exists']         = 'Amaran: Alamat e-mail telah digunakan!';
 $_['error_firstname']      = 'Nama mesti antara 1 ke 32 aksara!';
 $_['error_lastname']       = 'Nama bapa/keluarga mesti antara 1 ke 32 aksara!';
 $_['error_email']          = 'Alamat e-mail tidak boleh diterima!';
-$_['error_telephone']      = 'No Telefon mesti antara 3 ke 32 aksara!';
+$_['error_telephone']      = 'No Talipon mesti antara 3 ke 32 aksara!';
 $_['error_password']       = 'Katalaluan mesti andara 4 ke 20 aksara!';
 $_['error_confirm']        = 'Pengesahan Katalaluan tidak sama dengan katalaluan!';
 $_['error_address_1']      = 'Alamat 1 mesti antara 3 ke 128 aksara!';

@@ -20,7 +20,7 @@ $_['text_agree']                = 'Saya telah baca dan setuju dengan <a class="f
 $_['entry_firstname']           = 'Nama Anda:';
 $_['entry_lastname']            = 'Nama Bapa/Keluarga:';
 $_['entry_email']               = 'E-Mail:';
-$_['entry_telephone']           = 'Telefon:';
+$_['entry_telephone']           = 'Talipon:';
 $_['entry_fax']                 = 'Fax:';
 $_['entry_company']             = 'Syarikat:';
 $_['entry_website']             = 'Laman Web:';
@@ -47,7 +47,7 @@ $_['error_exists']              = 'Amaran: Alamat E-Mail telah berdaftar!';
 $_['error_firstname']           = 'Nama mesti antara 1 ke 32 aksara!';
 $_['error_lastname']            = 'Nama Bapa/Keluarga mesti antara 1 ke 32 aksara!';
 $_['error_email']               = 'Alamat E-Mail tidak sah!';
-$_['error_telephone']           = 'Nombor Telefon mesti antara 3 ke 32 aksara!';
+$_['error_telephone']           = 'Nombor Talipon mesti antara 3 ke 32 aksara!';
 $_['error_password']            = 'Katalaluan mesti antara 4 ke 20 aksara!';
 $_['error_confirm']             = 'Pengesahan Katalaluan dan Katalaluan tidak sama!';
 $_['error_address_1']           = 'Alamat 1 mesti antara 3 ke 128 aksara!';
